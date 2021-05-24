@@ -22,3 +22,7 @@
 
 - Interior Consultant / 8 de Mayo 2021
 <img width="400" src="./assets/interior-consultant.png">
+
+
+- Interior Consultant / 23 de Mayo 2021
+<img width="400" src="./assets/404.png">
